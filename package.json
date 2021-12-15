@@ -1,6 +1,5 @@
 {
   "name": "homeworks",
-  "homepage": "https://andreybernacky.github.io/hwignat/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,6 +16,7 @@
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "https://andreybernacky.github.io/hwignat/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
