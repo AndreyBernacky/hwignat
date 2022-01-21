@@ -1,12 +1,15 @@
-.superInput {
+input{
+    outline: none;
+}
 
+.superInput {
+    border: 1px solid #565658; padding: 5px 10px; border-radius: 5px; margin: 0 0 1rem 0;
 }
 
 .errorInput {
-    border: 3px solid lime;
-    background: red;
+    border: 1px solid red; padding: 5px 10px; border-radius: 5px;
 }
 
 .error {
-    color: red;
+    color: red; margin: 0 0 1rem 0;
 }

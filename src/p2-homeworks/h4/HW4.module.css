@@ -9,5 +9,5 @@
 }
 
 .testSpanError {
-    color: blue;
+    color: #f00; font-weight: bold; font-size: 11px;
 }
